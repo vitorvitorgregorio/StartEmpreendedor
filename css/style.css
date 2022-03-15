@@ -1,0 +1,17 @@
+.background-primary {
+    background-color: var(--primary);
+}
+h2 {
+    color: var(--secondary);
+    font-size: 48px;
+    line-height: 72px;
+}
+main {
+    padding-top: 100px;
+}
+.background-primary h3 {
+    color: white;
+}
+.d-f {
+    clip-path: polygon(60% 0, 0 80%, 100% 100%);
+}
